@@ -1,15 +1,27 @@
-<<<<<<< HEAD
+# 🚀 Crypto-benchmarks
+
+```md
 # Crypto Benchmarks
 
-This repository contains benchmarks for RSA and DSA algorithms.
+A data analysis project that evaluates cryptocurrency performance metrics and benchmarking strategies.
 
-## Structure
-- rsa-2048/: 2048-bit RSA benchmark.
-- rsa-3072/: 3072-bit RSA benchmark.
-- dsa-2048/: 2048-bit DSA benchmark.
-- dsa-3072/: 3072-bit DSA benchmark.
+## 📊 Features
+- Historical crypto data analysis
+- Performance benchmarking
+- Trend visualization
+- Statistical comparison of assets
 
-Each subfolder has its own code and README.
-=======
+## 🛠 Tech Stack
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- Jupyter Notebook
 
->>>>>>> 
+## 📈 Insights
+- Volatility comparison across assets
+- Trend identification
+- Relative performance scoring
+
+## 📁 Usage
+```bash
+git clone https://github.com/Chege-N/Crypto-benchmarks
