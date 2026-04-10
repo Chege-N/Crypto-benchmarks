@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crypto Benchmarks
 
 This repository contains benchmarks for RSA and DSA algorithms.
@@ -9,3 +10,6 @@ This repository contains benchmarks for RSA and DSA algorithms.
 - dsa-3072/: 3072-bit DSA benchmark.
 
 Each subfolder has its own code and README.
+=======
+Full Code in master branch
+>>>>>>> 6470242d01451636fa82b37ac92ece852799ba8c
