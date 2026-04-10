@@ -11,5 +11,5 @@ This repository contains benchmarks for RSA and DSA algorithms.
 
 Each subfolder has its own code and README.
 =======
-Full Code in master branch
->>>>>>> 6470242d01451636fa82b37ac92ece852799ba8c
+
+>>>>>>> 
